@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de machado-05
+## Bem-vindo(a) ao perfil de machado-05 😁
 
  <div>
    <a href="https://github.com/machado-05">
