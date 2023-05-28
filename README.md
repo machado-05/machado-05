@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁  // Welcome to my profile
+## Bem-vindo(a) ao meu perfil 😁  // Welcome to my profile!
  <div>
    <a href="https://github.com/machado-05">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=machado-05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Caso queira entrar em contato, essas são minhas redes sociais!
+  ### Entre em contato!  // Reach me!
  
 <div> 
   <a href="https://instagram.com/felipe_machado126" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
